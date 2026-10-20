@@ -15,5 +15,5 @@ Filen kan hämtas på nytt med:
 
 ```bash
 source .venv/bin/activate
-python dag_1/kod/python/download_data.py
+python dag_2/kod/python/download_data.py
 ```
