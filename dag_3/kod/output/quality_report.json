@@ -1,0 +1,9 @@
+{
+  "source_rows": 10000,
+  "duplicate_rows": 0,
+  "missing_values": 0,
+  "invalid_rows": 0,
+  "clean_rows": 10000,
+  "machine_failures": 339,
+  "failure_rate": 0.0339
+}
